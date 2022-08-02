@@ -1,2 +1,6 @@
 fjfjfj
+<<<<<<< HEAD
 calososos
+=======
+hihihih
+>>>>>>> main
